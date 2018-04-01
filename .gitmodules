@@ -28,9 +28,6 @@
 [submodule "airport-sniffer"]
 	path = airport-sniffer
 	url = https://github.com/zhovner/airport-sniffer
-[submodule "airpwn"]
-	path = airpwn
-	url = https://github.com/M0Rf30/airpwn
 [submodule "airscan"]
 	path = airscan
 	url = https://github.com/trou/airscan
