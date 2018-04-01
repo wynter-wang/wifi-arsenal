@@ -994,9 +994,6 @@
 [submodule "iwraw"]
 	path = iwraw
 	url = https://github.com/erstrom/iwraw
-[submodule "bully-android"]
-	path = bully-android
-	url = https://github.com/Droid-MAX/bully
 [submodule "mitm-rogue-WiFi-AP"]
 	path = mitm-rogue-WiFi-AP
 	url = https://github.com/wshen0123/mitm-rogue-WiFi-AP
