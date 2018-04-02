@@ -1267,9 +1267,6 @@
 [submodule "iStupid"]
 	path = iStupid
 	url = https://github.com/dinosec/iStupid
-[submodule "mass-deauth-attack"]
-	path = mass-deauth-attack
-	url = https://github.com/shunghsiyu/mass-deauth-attack
 [submodule "probr-analysis"]
 	path = probr-analysis
 	url = https://github.com/probr/probr-analysis
