@@ -1129,9 +1129,6 @@
 [submodule "air-hammer"]
 	path = air-hammer
 	url = https://github.com/Wh1t3Rh1n0/air-hammer/
-[submodule "iwzone"]
-	path = iwzone
-	url = https://github.com/bumby/iwzone
 [submodule "mass-deauthentication"]
 	path = mass-deauthentication
 	url = https://github.com/StoneDesigns/mass-deauthentication
