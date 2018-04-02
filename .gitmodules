@@ -469,9 +469,6 @@
 [submodule "wraith"]
 	path = wraith
 	url = https://github.com/wraith-wireless/wraith
-[submodule "wreck"]
-	path = wreck
-	url = https://github.com/zombiesam/wreck
 [submodule "wspy"]
 	path = wspy
 	url = https://github.com/Nan-Do/wspy
