@@ -1129,9 +1129,6 @@
 [submodule "air-hammer"]
 	path = air-hammer
 	url = https://github.com/Wh1t3Rh1n0/air-hammer/
-[submodule "mass-deauthentication"]
-	path = mass-deauthentication
-	url = https://github.com/StoneDesigns/mass-deauthentication
 [submodule "802.11r"]
 	path = 802.11r
 	url = https://github.com/hd1de/802.11r
